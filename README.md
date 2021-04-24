@@ -1,7 +1,15 @@
-### Hi there 👋
-
 <!--
 **qfmx/qfmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 我在等风也等你 👋
+
+<div align="center">
+  <a href="https://rainss.cn/">
+    <img src="https://github-readme-stats.vercel.app/api?username=qfmx&show_icons=true&hide_border=true" />
+  </a>
+</div>
+<!--
+**rainerosion/rainerosion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
