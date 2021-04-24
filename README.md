@@ -4,7 +4,7 @@
 ### 我在等风也等你 👋
 
 <div align="center">
-  <a href="https://rainss.cn/">
+  <a href="https://josxy.cn/">
     <img src="https://github-readme-stats.vercel.app/api?username=qfmx&show_icons=true&hide_border=true" />
   </a>
 </div>
