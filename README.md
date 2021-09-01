@@ -2,7 +2,7 @@
 **qfmx/qfmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 等风也等你 👋
-![✨✨✨](https://komarev.com/ghpvc/?username=cunyu1943&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=cunyu1943&color=brightgreen)
 <p>
   <img src="https://count.getloli.com/get/@qfmx?theme=rule34">
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
