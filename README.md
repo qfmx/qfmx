@@ -1,13 +1,14 @@
 <!--
 **qfmx/qfmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### 等风也等你 👋
+### 简介 👋
 ![](https://komarev.com/ghpvc/?username=qfmx&color=brightgreen)
 <p>
   <img src="https://count.getloli.com/get/@qfmx?theme=rule34">
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
-👋，我是 **浅枫沐雪**，欢迎来到我的 Github 主页。你可以通过以下的方式找到我！
+
+👋，我是 **浅枫沐雪**，欢迎来到我的 Github 主页！
 
 - allms ，男，96后，程序猿。码农一枚。酷爱编程，乐于分享。
 - 16年开始接触编程，致力于更好的分享技术，分享人生。
@@ -41,18 +42,17 @@
 ## 总结
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=qfmx&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=20">
-</p>
-
-
-<p align = "center">
  <img  src="https://activity-graph.herokuapp.com/graph?username=qfmx&theme=redical&show_icons=true&locale=cn&line_height=30">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=qfmx&theme=neon-dark" />
 </p>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=qfmx&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=30">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=20">
+</p>
 
 ![浅枫沐雪 github stats](https://github-readme-stats.vercel.app/api?username=qfmx&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 ### 寄语
