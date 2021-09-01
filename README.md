@@ -1,7 +1,8 @@
 <!--
 **qfmx/qfmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### 简介 👋
+## 简介 👋
+
 ![](https://komarev.com/ghpvc/?username=qfmx&color=brightgreen)
 <p>
   <img src="https://count.getloli.com/get/@qfmx?theme=rule34">
@@ -16,9 +17,10 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [🎈 博客：**⌈浅枫沐雪⌋**](https://allms.cn)                    | [🎉 语雀：**⌈浅枫沐雪⌋**](https://cunyu1943.blog.csdn.net/)     |
-| [🎊 掘金：**⌈浅枫沐雪⌋**](https://juejin.cn/user/747323637904519) | [🎏 微博：**⌈浅枫沐雪⌋**](https://www.zhihu.com/people/cunyu1943) |
-| [🎨 思否：**⌈浅枫沐雪⌋**](https://www.nowcoder.com/profile/806383223) | [🎯 B站：**⌈浅枫沐雪⌋**](https://space.bilibili.com/77697774) |
+| [🎈 博客：**⌈浅枫沐雪⌋**](https://allms.cn)                    | [🎉 语雀：**⌈浅枫沐雪⌋**](https://www.yuque.com/josxy/)     |
+| [🎊 掘金：**⌈浅枫沐雪⌋**](https://juejin.cn/user/3456520287952285/posts) | [🎏 微博：**⌈浅枫沐雪⌋**](https://weibo.com/qfmx520) |
+| [🎨 思否：**⌈浅枫沐雪⌋**](https://segmentfault.com/u/josxy/articles) | [🎯 B站：**⌈浅枫沐雪⌋**](https://space.bilibili.com/424210875) |
+
 ## 技术栈
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -51,5 +53,6 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=qfmx&theme=neon-dark" />
 </p>
 
-### 寄语
+## 寄语
+
 正在奋斗路上的你，千万不要怕吃苦。所有的苦，以后都会笑着说出来。
