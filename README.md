@@ -43,17 +43,16 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=20">
-  <img src = "https://github-readme-stats.vercel.app/api?username=qfmx&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=30">
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=20">
 </p>
 
 <p align = "center">
  <img  src="https://activity-graph.herokuapp.com/graph?username=qfmx&theme=redical&show_icons=true&locale=cn&line_height=30">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=qfmx&theme=neon-dark" />
 </p>
-
-![浅枫沐雪 github stats](https://github-readme-stats.vercel.app/api?username=qfmx&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-
-![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 ### 寄语
 正在奋斗路上的你，千万不要怕吃苦。所有的苦，以后都会笑着说出来。
