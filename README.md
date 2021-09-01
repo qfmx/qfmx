@@ -42,11 +42,8 @@
 ## 总结
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=20">
-</p>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=20">
+  <img src = "https://github-readme-stats.vercel.app/api?username=qfmx&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=30">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=30">
 </p>
 
 <p align = "center">
