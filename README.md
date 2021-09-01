@@ -16,9 +16,9 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [🎈 博客：**⌈浅枫沐雪⌋**](https://allms.cn)                    | [🎉 CSDN：**⌈浅枫沐雪⌋**](https://cunyu1943.blog.csdn.net/)     |
-| [🎊 掘金：**⌈浅枫沐雪⌋**](https://juejin.cn/user/747323637904519) | [🎏 知乎：**⌈浅枫沐雪⌋**](https://www.zhihu.com/people/cunyu1943) |
-| [🎨 思否：**⌈浅枫沐雪⌋**](https://www.nowcoder.com/profile/806383223) | [🎯 Bilibili：**⌈浅枫沐雪⌋**](https://space.bilibili.com/77697774) |
+| [🎈 博客：**⌈浅枫沐雪⌋**](https://allms.cn)                    | [🎉 语雀：**⌈浅枫沐雪⌋**](https://cunyu1943.blog.csdn.net/)     |
+| [🎊 掘金：**⌈浅枫沐雪⌋**](https://juejin.cn/user/747323637904519) | [🎏 微博：**⌈浅枫沐雪⌋**](https://www.zhihu.com/people/cunyu1943) |
+| [🎨 思否：**⌈浅枫沐雪⌋**](https://www.nowcoder.com/profile/806383223) | [🎯 B站：**⌈浅枫沐雪⌋**](https://space.bilibili.com/77697774) |
 ## 技术栈
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
