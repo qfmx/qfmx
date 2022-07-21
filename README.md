@@ -9,16 +9,13 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
-👋，我是 **小汐**，欢迎来到我的 Github 主页！
+👋Hi，我是 **汐初**，欢迎来到我的 Github 主页！酷爱编程，致力于更好的分享技术，分享人生，也喜欢写代码到深夜，探索未知领域😏。
 
-- 码农一枚，酷爱编程，乐于分享。
-- 2016年开始接触编程，致力于更好的分享技术，分享人生。
-- 依然喜欢写代码到深夜，探索未知领域😏。
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [🎈 博客：**⌈汐初⌋**](https://allms.cn)                    | [🎉 语雀：**⌈汐初⌋**](https://www.yuque.com/xichujun/)     |
-| [🎊 掘金：**⌈汐初⌋**](https://juejin.cn/user/3456520287952285/posts) | [🎯 B站：**⌈汐初⌋**](https://space.bilibili.com/424210875) |
+| [🎈 博客：](https://allms.cn)                    | [🎉 语雀：](https://www.yuque.com/xichujun/)     |
+| [🎊 掘金：](https://juejin.cn/user/3456520287952285/posts) | [🎯 B站：](https://space.bilibili.com/424210875) |
 
 ## 技术栈
 
