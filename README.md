@@ -9,7 +9,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
-👋Hi，我是 **汐初**，欢迎来到我的 Github 主页！快来探索新的领域吧😏。
+👋Hi，我是 **兮初君**，欢迎来到我的 Github 主页！快来探索新的领域吧😏。
 
 
 | 站点                                                             |         链接                                              |
