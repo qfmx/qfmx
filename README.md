@@ -6,18 +6,10 @@
 ![](https://komarev.com/ghpvc/?username=qfmx&color=brightgreen)
 <p>
   <img src="https://count.getloli.com/get/@qfmx?theme=rule34">
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <img src = "https://github-readme-stats.vercel.app/api?username=qfmx&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=40">
 </p>
 
-👋Hi，我是 **兮初君**，欢迎来到我的 Github 主页！快来探索新的领域吧😏。
-
-
-| 站点                                                             |         链接                                              |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [🎈 博客]                   | https://allms.cn/     |
-| [🎉 语雀]                   | https://www.yuque.com/xichujun/    |
-| [🎊 掘金]                   | https://juejin.cn/user/3456520287952285 |
-| [🎯 B 站]                   | https://space.bilibili.com/424210875 |
+👋Hi，我是 **幽枫微梦**，欢迎来到我的 Github 主页！快来探索新的领域吧😏。
 
 ## 技术栈
 
@@ -37,15 +29,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-  
 
-## 总结
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qfmx&theme=radical&locale=cn&line_height=20">
-  <img src = "https://github-readme-stats.vercel.app/api?username=qfmx&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=40">
-</p>
-
-## 寄语
+## 作者寄语
 
 正在奋斗路上的你，千万不要怕吃苦。所有的苦，以后都会笑着说出来。
