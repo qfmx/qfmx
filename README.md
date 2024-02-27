@@ -6,7 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=qfmx&color=brightgreen)
 <p>
   <img src="https://count.getloli.com/get/@qfmx?theme=rule34">
-  <img src = "https://github-readme-stats.vercel.app/api?username=qfmx&count_private=true&show_icons=true&theme=radical&locale=cn&line_height=40">
 </p>
 
 👋Hi，我是 **幽枫微梦**，欢迎来到我的 Github 主页！快来探索新的领域吧😏。
