@@ -8,7 +8,7 @@
   <img src="https://count.getloli.com/get/@qfmx?theme=rule34">
 </p>
 
-👋Hi，我是 **暖月寒星**，欢迎来到我的 Github 主页！快来探索新的领域吧😏。
+👋Hi，我是 **QFMX**，欢迎来到我的 Github 主页！快来探索新的领域吧😏。
 
 ## 技术栈
 
